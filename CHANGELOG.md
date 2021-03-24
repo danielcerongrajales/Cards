@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://github.com/danielcerongrajales/Cards/compare/v1.0.0...v1.1.0) (2021-03-24)
+
+
+### Features
+
+* correction of badges and title inside the  README file ([f4ef0f9](https://github.com/danielcerongrajales/Cards/commit/f4ef0f9b4b584ad1e85083550a1327e500035057))
+
 ## 1.0.0 (2021-03-23)
 
 
